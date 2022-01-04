@@ -10,11 +10,6 @@
   // https://disaportal.gsi.go.jp/hazardmap/copyright/opendata.html
   "tiles": [
     {
-      "name": "高潮浸水想定区域",
-      "url": "https://disaportaldata.gsi.go.jp/raster/03_hightide_l2_shinsuishin_data/{z}/{x}/{y}.png",
-      "attribution": "<a href=\"https://disaportal.gsi.go.jp/hazardmap/copyright/opendata.html\">ハザードマップポータルサイト</a>"
-    },
-    {
       "name": "津波浸水想定",
       "url": "https://disaportaldata.gsi.go.jp/raster/04_tsunami_newlegend_data/{z}/{x}/{y}.png",
       "attribution": "<a href=\"https://disaportal.gsi.go.jp/hazardmap/copyright/opendata.html\">ハザードマップポータルサイト</a>"
